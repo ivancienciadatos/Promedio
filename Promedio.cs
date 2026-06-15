@@ -111,7 +111,7 @@ namespace MiPrimerProyecto
             }
 
             // ====================================================
-            // 3. CÁLCULO DEL PROMEDIO Y SITUACIÓN FINAL
+            // 3. CAMBIE CAMBIE CAMBIR+E
             // ====================================================
             double promedio = (nota1 + nota2 + nota3) / 3.0;
 
