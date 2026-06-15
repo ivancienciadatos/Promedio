@@ -1,0 +1,14 @@
+E:\c#\Promedio\bin\Debug\net10.0\Promedio.exe
+E:\c#\Promedio\bin\Debug\net10.0\Promedio.deps.json
+E:\c#\Promedio\bin\Debug\net10.0\Promedio.runtimeconfig.json
+E:\c#\Promedio\bin\Debug\net10.0\Promedio.dll
+E:\c#\Promedio\bin\Debug\net10.0\Promedio.pdb
+E:\c#\Promedio\obj\Debug\net10.0\Promedio.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\Promedio\obj\Debug\net10.0\Promedio.AssemblyInfoInputs.cache
+E:\c#\Promedio\obj\Debug\net10.0\Promedio.AssemblyInfo.cs
+E:\c#\Promedio\obj\Debug\net10.0\Promedio.csproj.CoreCompileInputs.cache
+E:\c#\Promedio\obj\Debug\net10.0\Promedio.dll
+E:\c#\Promedio\obj\Debug\net10.0\refint\Promedio.dll
+E:\c#\Promedio\obj\Debug\net10.0\Promedio.pdb
+E:\c#\Promedio\obj\Debug\net10.0\Promedio.genruntimeconfig.cache
+E:\c#\Promedio\obj\Debug\net10.0\ref\Promedio.dll
