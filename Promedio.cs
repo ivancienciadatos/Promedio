@@ -48,7 +48,7 @@ namespace MiPrimerProyecto
             } while (esNombreValido == false);
 
             // ====================================================
-            // 2. INGRESO Y VALIDACIÓN DE LAS 3 NOTAS (Rango 1,0 a 7,0)
+            // 2. copa libertadores
             // ====================================================
             double nota1 = 0, nota2 = 0, nota3 = 0;
 
