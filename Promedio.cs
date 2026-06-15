@@ -7,7 +7,7 @@ namespace MiPrimerProyecto
         static void Main(string[] args)
         {
             // ====================================================
-            // 1. INGRESO Y VALIDACIÓN DEL NOMBRE
+            // COLO COLO COLOC
             // ====================================================
             string nombreEstudiante = "";
             bool esNombreValido = false;
